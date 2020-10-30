@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FlowingPoint
+  - Lantern
+  - RoamingPoint
+  - Bat
+  - Wolf
+  - BadGhost
+  - LostGhost
+  - Fires
+  - Rock
+  - Split
+  - YellowLight
+  - WhiteLight
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Enemy
+  - Lantern
+  - Rock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 4082121119
+    locked: 0
+  - name: BackGroundDetail
+    uniqueID: 4156685227
+    locked: 0
+  - name: Item
+    uniqueID: 1887673471
+    locked: 0
+  - name: Enemy
+    uniqueID: 2607027493
+    locked: 0
+  - name: Particle
+    uniqueID: 1690141817
+    locked: 0
+  - name: Lantern
+    uniqueID: 847461615
+    locked: 0
+  - name: Player
+    uniqueID: 1895751351
+    locked: 0
+  - name: Split
+    uniqueID: 1671812855
+    locked: 0
+  - name: FrontLayer
+    uniqueID: 420081269
+    locked: 0
